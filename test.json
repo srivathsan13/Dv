@@ -1,0 +1,4253 @@
+{
+   "name":"Australian Open",
+   "children":[
+      {
+         "name":"2004",
+         "children":[
+            {
+               "name":"First Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 77",
+                           "size":77
+                        },
+                        {
+                           "name":"Break-Return - 102",
+                           "size":102
+                        },
+                        {
+                           "name":"Total Score - 90",
+                           "size":90
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Alex Jr. Bogomolov",
+                     "children":[
+                        {
+                           "name":"First Serve - 67",
+                           "size":67
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 49",
+                           "size":49
+                        },
+                        {
+                           "name":"Break-Return - 22",
+                           "size":22
+                        },
+                        {
+                           "name":"Total Score - 59",
+                           "size":59
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Second Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 62",
+                           "size":62
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 71.5",
+                           "size":71.5
+                        },
+                        {
+                           "name":"Break-Return - 102",
+                           "size":102
+                        },
+                        {
+                           "name":"Total Score - 90",
+                           "size":90
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Jeff Morrison",
+                     "children":[
+                        {
+                           "name":"First Serve - 59",
+                           "size":59
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 56",
+                           "size":56
+                        },
+                        {
+                           "name":"Break-Return - 27",
+                           "size":27
+                        },
+                        {
+                           "name":"Total Score - 77",
+                           "size":77
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Third Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 54",
+                           "size":54
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 79.5",
+                           "size":79.5
+                        },
+                        {
+                           "name":"Break-Return - 118",
+                           "size":118
+                        },
+                        {
+                           "name":"Total Score - 83",
+                           "size":83
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Todd Reid",
+                     "children":[
+                        {
+                           "name":"First Serve - 58",
+                           "size":58
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 38.5",
+                           "size":38.5
+                        },
+                        {
+                           "name":"Break-Return - 130",
+                           "size":130
+                        },
+                        {
+                           "name":"Total Score - 45",
+                           "size":45
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Fourth Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 59",
+                           "size":59
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 79.5",
+                           "size":79.5
+                        },
+                        {
+                           "name":"Break-Return - 78",
+                           "size":78
+                        },
+                        {
+                           "name":"Total Score - 123",
+                           "size":123
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Lleyton Hewitt",
+                     "children":[
+                        {
+                           "name":"First Serve - 65",
+                           "size":65
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 57.5",
+                           "size":57.5
+                        },
+                        {
+                           "name":"Break-Return - 47",
+                           "size":47
+                        },
+                        {
+                           "name":"Total Score - 107",
+                           "size":107
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Quarter Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Break-Return - 76",
+                           "size":76
+                        },
+                        {
+                           "name":"Total Score - 125",
+                           "size":125
+                        }
+                     ]
+                  },
+                  {
+                     "name":"David Nalbandian",
+                     "children":[
+                        {
+                           "name":"First Serve - 65",
+                           "size":65
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 64.5",
+                           "size":64.5
+                        },
+                        {
+                           "name":"Break-Return - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Total Score - 119",
+                           "size":119
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Semi Final Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 72",
+                           "size":72
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Break-Return - 106",
+                           "size":106
+                        },
+                        {
+                           "name":"Total Score - 88",
+                           "size":88
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Juan Carlos Ferrero",
+                     "children":[
+                        {
+                           "name":"First Serve - 58",
+                           "size":58
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 59.5",
+                           "size":59.5
+                        },
+                        {
+                           "name":"Break-Return - 28",
+                           "size":28
+                        },
+                        {
+                           "name":"Total Score - 66",
+                           "size":66
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Final Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 67.5",
+                           "size":67.5
+                        },
+                        {
+                           "name":"Break-Return - 73",
+                           "size":73
+                        },
+                        {
+                           "name":"Total Score - 113",
+                           "size":113
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Marat Safin",
+                     "children":[
+                        {
+                           "name":"First Serve - 49",
+                           "size":49
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 55",
+                           "size":55
+                        },
+                        {
+                           "name":"Break-Return - 99",
+                           "size":99
+                        },
+                        {
+                           "name":"Total Score - 99",
+                           "size":93
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"2005",
+         "children":[
+            {
+               "name":"First Round",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "children":[
+                        {
+                           "name":"First Serve - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 73.5",
+                           "size":73.5
+                        },
+                        {
+                           "name":"Break-Return - 137",
+                           "size":137
+                        },
+                        {
+                           "name":"Total Score - 83",
+                           "size":83
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 59",
+                           "size":59
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 30",
+                           "size":30
+                        },
+                        {
+                           "name":"Break-Return - 125",
+                           "size":125
+                        },
+                        {
+                           "name":"Total Score - 34",
+                           "size":34
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Second Round",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "children":[
+                        {
+                           "name":"First Serve - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 72",
+                           "size":72
+                        },
+                        {
+                           "name":"Break-Return -115",
+                           "size":115
+                        },
+                        {
+                           "name":"Total Score - 90",
+                           "size":90
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Bohdan Ulihrach",
+                     "children":[
+                        {
+                           "name":"First Serve - 57",
+                           "size":57
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 51",
+                           "size":51
+                        },
+                        {
+                           "name":"Break-Return - 125",
+                           "size":125
+                        },
+                        {
+                           "name":"Total Score - 60 ",
+                           "size":60
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Third Round",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "children":[
+                        {
+                           "name":"First Serve - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 67.5",
+                           "size":67.5
+                        },
+                        {
+                           "name":"Break-Return - 86",
+                           "size":86
+                        },
+                        {
+                           "name":"Total Score - 120",
+                           "size":120
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Mario Ancic",
+                     "children":[
+                        {
+                           "name":"First Serve - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Double - 7",
+                           "size":7
+                        },
+                        {
+                           "name":"Points won by Player - 60.5",
+                           "size":60.5
+                        },
+                        {
+                           "name":"Break-Return - 72",
+                           "size":72
+                        },
+                        {
+                           "name":"Total Score - 113",
+                           "size":113
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Fourth Round",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "children":[
+                        {
+                           "name":"First Serve - 62",
+                           "size":62
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 71.5",
+                           "size":71.5
+                        },
+                        {
+                           "name":"Break-Return - 44",
+                           "size":44
+                        },
+                        {
+                           "name":"Total Score - 173",
+                           "size":173
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Olivier Rochus",
+                     "children":[
+                        {
+                           "name":"First Serve - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 58.5",
+                           "size":58.5
+                        },
+                        {
+                           "name":"Break-Return - 66",
+                           "size":66
+                        },
+                        {
+                           "name":"Total Score - 147",
+                           "size":147
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Quarter Round",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "children":[
+                        {
+                           "name":"First Serve - 49",
+                           "size":49
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 72.5",
+                           "size":72.5
+                        },
+                        {
+                           "name":"Break-Return - 124",
+                           "size":124
+                        },
+                        {
+                           "name":"Total Score - 85",
+                           "size":85
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Dominik Hrbaty",
+                     "children":[
+                        {
+                           "name":"First Serve - 44",
+                           "size":44
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Break-Return - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Total Score - 56",
+                           "size":56
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Semi Final Round",
+               "children":[
+                  {
+                     "name":"Marat Safin",
+                     "children":[
+                        {
+                           "name":"First Serve - 59",
+                           "size":59
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Break-Return - 62",
+                           "size":62
+                        },
+                        {
+                           "name":"Total Score - 194",
+                           "size":194
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 57",
+                           "size":57
+                        },
+                        {
+                           "name":"Double - 8",
+                           "size":8
+                        },
+                        {
+                           "name":"Points won by Player - 66.5",
+                           "size":66.5
+                        },
+                        {
+                           "name":"Break-Return - 64",
+                           "size":64
+                        },
+                        {
+                           "name":"Total Score - 201",
+                           "size":201
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Final Round",
+               "children":[
+                  {
+                     "name":"Marat Safin - 60",
+                     "children":[
+                        {
+                           "name":"First Serve",
+                           "size":60
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 65",
+                           "size":65
+                        },
+                        {
+                           "name":"Break-Return - 75",
+                           "size":75
+                        },
+                        {
+                           "name":"Total Score - 12",
+                           "size":12
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Lleyton Hewitt",
+                     "children":[
+                        {
+                           "name":"First Serve - 49",
+                           "size":49
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 61",
+                           "size":61
+                        },
+                        {
+                           "name":"Break-Return - 72",
+                           "size":72
+                        },
+                        {
+                           "name":"Total Score - 113",
+                           "size":113
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"2006",
+         "children":[
+            {
+               "name":"First Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 69",
+                           "size":69
+                        },
+                        {
+                           "name":"Double - 0 ",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 70",
+                           "size":70
+                        },
+                        {
+                           "name":"Break-Return - 104",
+                           "size":104
+                        },
+                        {
+                           "name":"Total Score - 91",
+                           "size":91
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Denis Istomin",
+                     "children":[
+                        {
+                           "name":"First Serve - 64",
+                           "size":64
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 47.5",
+                           "size":47.5
+                        },
+                        {
+                           "name":"Break-Return - 58",
+                           "size":58
+                        },
+                        {
+                           "name":"Total Score - 59",
+                           "size":59
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Second Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 61",
+                           "size":61
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 69",
+                           "size":69
+                        },
+                        {
+                           "name":"Break-Return - 111",
+                           "size":111
+                        },
+                        {
+                           "name":"Total Score - 87",
+                           "size":87
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Florian Mayer",
+                     "children":[
+                        {
+                           "name":"First Serve - 64",
+                           "size":64
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 48",
+                           "size":48
+                        },
+                        {
+                           "name":"Break-Return - 30",
+                           "size":30
+                        },
+                        {
+                           "name":"Total Score - 56",
+                           "size":56
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Third Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 67",
+                           "size":67
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 83",
+                           "size":83
+                        },
+                        {
+                           "name":"Break-Return - 71",
+                           "size":71
+                        },
+                        {
+                           "name":"Total Score - 104",
+                           "size":104
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Max Mirnyi",
+                     "children":[
+                        {
+                           "name":"First Serve - 67",
+                           "size":67
+                        },
+                        {
+                           "name":"Double - 6",
+                           "size":6
+                        },
+                        {
+                           "name":"Points won by Player - 50",
+                           "size":50
+                        },
+                        {
+                           "name":"Break-Return - 19",
+                           "size":19
+                        },
+                        {
+                           "name":"Total Score - 74",
+                           "size":74
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Fourth Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 58",
+                           "size":58
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 65.5",
+                           "size":65.5
+                        },
+                        {
+                           "name":"Break-Return - 94",
+                           "size":94
+                        },
+                        {
+                           "name":"Total Score - 143",
+                           "size":143
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Tommy Haas",
+                     "children":[
+                        {
+                           "name":"First Serve - 64",
+                           "size":64
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Break-Return - 55",
+                           "size":55
+                        },
+                        {
+                           "name":"Total Score - 127",
+                           "size":127
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Quarter Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 62",
+                           "size":62
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 63.5",
+                           "size":63.5
+                        },
+                        {
+                           "name":"Break-Return - 76",
+                           "size":76
+                        },
+                        {
+                           "name":"Total Score - 114",
+                           "size":114
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Nikolay Davydenko",
+                     "children":[
+                        {
+                           "name":"First Serve - 77",
+                           "size":77
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 56",
+                           "size":56
+                        },
+                        {
+                           "name":"Break-Return - 84",
+                           "size":84
+                        },
+                        {
+                           "name":"Total Score - 139",
+                           "size":139
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Semi Final Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 66",
+                           "size":66
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 69",
+                           "size":69
+                        },
+                        {
+                           "name":"Break-Return - 77",
+                           "size":77
+                        },
+                        {
+                           "name":"Total Score - 129",
+                           "size":129
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Nicolas Kiefer",
+                     "children":[
+                        {
+                           "name":"First Serve - 51",
+                           "size":51
+                        },
+                        {
+                           "name":"Double - 7 ",
+                           "size":7
+                        },
+                        {
+                           "name":"Points won by Player - 54.5",
+                           "size":54.5
+                        },
+                        {
+                           "name":"Break-Return - 55",
+                           "size":55
+                        },
+                        {
+                           "name":"Total Score - 99",
+                           "size":99
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Final Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Double - 6",
+                           "size":6
+                        },
+                        {
+                           "name":"Points won by Player - 61",
+                           "size":61
+                        },
+                        {
+                           "name":"Break-Return - 113",
+                           "size":113
+                        },
+                        {
+                           "name":"Total Score - 142",
+                           "size":142
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Marcos Baghdatis",
+                     "children":[
+                        {
+                           "name":"First Serve - 48",
+                           "size":48
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 54",
+                           "size":54
+                        },
+                        {
+                           "name":"Break-Return - 68",
+                           "size":68
+                        },
+                        {
+                           "name":"Total Score - 116",
+                           "size":116
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"2007",
+         "children":[
+            {
+               "name":"First Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 71",
+                           "size":71
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 61",
+                           "size":61
+                        },
+                        {
+                           "name":"Break-Return - 103",
+                           "size":103
+                        },
+                        {
+                           "name":"Total Score - 111",
+                           "size":111
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Bjorn Phau",
+                     "children":[
+                        {
+                           "name":"First Serve - 49",
+                           "size":49
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 44.5",
+                           "size":44.5
+                        },
+                        {
+                           "name":"Break-Return - 102",
+                           "size":102
+                        },
+                        {
+                           "name":"Total Score - 75",
+                           "size":75
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Second Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 64",
+                           "size":64
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 70.5",
+                           "size":70.5
+                        },
+                        {
+                           "name":"Break-Return - 112",
+                           "size":112
+                        },
+                        {
+                           "name":"Total Score - 93",
+                           "size":93
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Jonas Bjorkman",
+                     "children":[
+                        {
+                           "name":"First Serve - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 45",
+                           "size":45
+                        },
+                        {
+                           "name":"Break-Return - 129",
+                           "size":129
+                        },
+                        {
+                           "name":"Total Score - 59",
+                           "size":59
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Third Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 68",
+                           "size":68
+                        },
+                        {
+                           "name":"Break-Return - 90",
+                           "size":90
+                        },
+                        {
+                           "name":"Total Score - 109",
+                           "size":109
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Mikhail Youzhny",
+                     "children":[
+                        {
+                           "name":"First Serve - 54",
+                           "size":54
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 58.5",
+                           "size":58.5
+                        },
+                        {
+                           "name":"Break-Return - 56",
+                           "size":56
+                        },
+                        {
+                           "name":"Total Score - 92",
+                           "size":92
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Fourth Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 73.5",
+                           "size":73.5
+                        },
+                        {
+                           "name":"Break-Return - 108",
+                           "size":108
+                        },
+                        {
+                           "name":"Total Score - 105",
+                           "size":105
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 61",
+                           "size":61
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 53.5",
+                           "size":53.5
+                        },
+                        {
+                           "name":"Break-Return - 75",
+                           "size":75
+                        },
+                        {
+                           "name":"Total Score - 76",
+                           "size":76
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Quarter Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 65",
+                           "size":65
+                        },
+                        {
+                           "name":"Break-Return - 97",
+                           "size":97
+                        },
+                        {
+                           "name":"Total Score - 119",
+                           "size":119
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Tommy Robredo",
+                     "children":[
+                        {
+                           "name":"First Serve - 61",
+                           "size":61
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 59",
+                           "size":59
+                        },
+                        {
+                           "name":"Break-Return - 83",
+                           "size":83
+                        },
+                        {
+                           "name":"Total Score - 94",
+                           "size":94
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Semi Final Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 51",
+                           "size":51
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 74.5",
+                           "size":74.5
+                        },
+                        {
+                           "name":"Break-Return - 155",
+                           "size":155
+                        },
+                        {
+                           "name":"Total Score - 83",
+                           "size":83
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Andy Roddick",
+                     "children":[
+                        {
+                           "name":"First Serve - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 41.5",
+                           "size":41.5
+                        },
+                        {
+                           "name":"Break-Return - 125",
+                           "size":125
+                        },
+                        {
+                           "name":"Total Score - 45",
+                           "size":45
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Final Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 58",
+                           "size":58
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 80",
+                           "size":80
+                        },
+                        {
+                           "name":"Break-Return - 70",
+                           "size":70
+                        },
+                        {
+                           "name":"Total Score - 120",
+                           "size":120
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Fernando Gonzalez",
+                     "children":[
+                        {
+                           "name":"First Serve - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 57.5",
+                           "size":57.5
+                        },
+                        {
+                           "name":"Break-Return - 120",
+                           "size":120
+                        },
+                        {
+                           "name":"Total Score - 93",
+                           "size":93
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"2008",
+         "children":[
+            {
+               "name":"First Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 64.5",
+                           "size":64.5
+                        },
+                        {
+                           "name":"Break-Return - 136",
+                           "size":136
+                        },
+                        {
+                           "name":"Total Score - 96",
+                           "size":96
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Benjamin Becker",
+                     "children":[
+                        {
+                           "name":"First Serve - 46",
+                           "size":46
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 50.5",
+                           "size":50.5
+                        },
+                        {
+                           "name":"Break-Return - 80",
+                           "size":80
+                        },
+                        {
+                           "name":"Total Score - 65",
+                           "size":65
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Second Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 62",
+                           "size":62
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 70",
+                           "size":70
+                        },
+                        {
+                           "name":"Break-Return - 128",
+                           "size":128
+                        },
+                        {
+                           "name":"Total Score - 86",
+                           "size":86
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Simone Bolelli",
+                     "children":[
+                        {
+                           "name":"First Serve - 59",
+                           "size":59
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 46",
+                           "size":46
+                        },
+                        {
+                           "name":"Break-Return - 29",
+                           "size":29
+                        },
+                        {
+                           "name":"Total Score - 51",
+                           "size":51
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Third Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 76",
+                           "size":76
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 77.5",
+                           "size":77.5
+                        },
+                        {
+                           "name":"Break-Return - 100",
+                           "size":100
+                        },
+                        {
+                           "name":"Total Score - 94",
+                           "size":94
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Sam Querrey",
+                     "children":[
+                        {
+                           "name":"First Serve - 62",
+                           "size":62
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 46",
+                           "size":46
+                        },
+                        {
+                           "name":"Break-Return - 49",
+                           "size":49
+                        },
+                        {
+                           "name":"Total Score - 61",
+                           "size":61
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Fourth Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Double - 6",
+                           "size":6
+                        },
+                        {
+                           "name":"Points won by Player - 59",
+                           "size":59
+                        },
+                        {
+                           "name":"Break-Return - 107",
+                           "size":107
+                        },
+                        {
+                           "name":"Total Score - 108",
+                           "size":108
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Lleyton Hewitt",
+                     "children":[
+                        {
+                           "name":"First Serve - 52",
+                           "size":52
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 51",
+                           "size":51
+                        },
+                        {
+                           "name":"Break-Return - 18",
+                           "size":18
+                        },
+                        {
+                           "name":"Total Score - 86",
+                           "size":86
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Quarter Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 62",
+                           "size":62
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 63.5",
+                           "size":63.5
+                        },
+                        {
+                           "name":"Break-Return - 92",
+                           "size":92
+                        },
+                        {
+                           "name":"Total Score - 107",
+                           "size":107
+                        }
+                     ]
+                  },
+                  {
+                     "name":"David Ferrer",
+                     "children":[
+                        {
+                           "name":"First Serve - 56",
+                           "size":56
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 50",
+                           "size":50
+                        },
+                        {
+                           "name":"Break-Return - 44",
+                           "size":44
+                        },
+                        {
+                           "name":"Total Score - 77",
+                           "size":77
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Semi Final Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 68",
+                           "size":68
+                        },
+                        {
+                           "name":"Double - 6",
+                           "size":6
+                        },
+                        {
+                           "name":"Points won by Player - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Break-Return - 74",
+                           "size":74
+                        },
+                        {
+                           "name":"Total Score - 118",
+                           "size":118
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 61",
+                           "size":61
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 57.5",
+                           "size":57.5
+                        },
+                        {
+                           "name":"Break-Return - 56",
+                           "size":56
+                        },
+                        {
+                           "name":"Total Score - 104",
+                           "size":104
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Final Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 56",
+                           "size":56
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 70.5",
+                           "size":70.5
+                        },
+                        {
+                           "name":"Break-Return - 69",
+                           "size":69
+                        },
+                        {
+                           "name":"Total Score - 136",
+                           "size":136
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Jo-Wilfried Tsonga",
+                     "children":[
+                        {
+                           "name":"First Serve - 71",
+                           "size":71
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player 59.5",
+                           "size":59.5
+                        },
+                        {
+                           "name":"Break-Return - 69",
+                           "size":69
+                        },
+                        {
+                           "name":"Total Score - 122",
+                           "size":122
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"2009",
+         "children":[
+            {
+               "name":"First Round",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "children":[
+                        {
+                           "name":"First Serve - 69",
+                           "size":69
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 83",
+                           "size":83
+                        },
+                        {
+                           "name":"Break-Return - 118",
+                           "size":118
+                        },
+                        {
+                           "name":"Total Score - 83",
+                           "size":83
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Christophe Rochus",
+                     "children":[
+                        {
+                           "name":"First Serve - 65",
+                           "size":65
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 40.5",
+                           "size":40.5
+                        },
+                        {
+                           "name":"Break-Return - 14",
+                           "size":14
+                        },
+                        {
+                           "name":"Total Score - 40",
+                           "size":40
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Second Round",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "children":[
+                        {
+                           "name":"First Serve - 68",
+                           "size":68
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 67.5",
+                           "size":67.5
+                        },
+                        {
+                           "name":"Break-Return - 131",
+                           "size":131
+                        },
+                        {
+                           "name":"Total Score - 83",
+                           "size":83
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Roko Karanusic",
+                     "children":[
+                        {
+                           "name":"First Serve - 66",
+                           "size":66
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 48",
+                           "size":48
+                        },
+                        {
+                           "name":"Break-Return - 30",
+                           "size":30
+                        },
+                        {
+                           "name":"Total Score - 58",
+                           "size":58
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Third Round",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "children":[
+                        {
+                           "name":"First Serve - 69",
+                           "size":69
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 80",
+                           "size":80
+                        },
+                        {
+                           "name":"Break-Return - 82",
+                           "size":82
+                        },
+                        {
+                           "name":"Total Score - 98",
+                           "size":98
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Tommy Haas",
+                     "children":[
+                        {
+                           "name":"First Serve - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 49",
+                           "size":49
+                        },
+                        {
+                           "name":"Break-Return - 119",
+                           "size":119
+                        },
+                        {
+                           "name":"Total Score - 62",
+                           "size":62
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Fourth Round",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "children":[
+                        {
+                           "name":"First Serve - 67",
+                           "size":67
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 70.5",
+                           "size":70.5
+                        },
+                        {
+                           "name":"Break-Return - 94",
+                           "size":94
+                        },
+                        {
+                           "name":"Total Score - 96",
+                           "size":96
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Fernando Gonzalez",
+                     "children":[
+                        {
+                           "name":"First Serve - 69",
+                           "size":69
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 47.5",
+                           "size":47.5
+                        },
+                        {
+                           "name":"Break-Return - 56",
+                           "size":56
+                        },
+                        {
+                           "name":"Total Score - 66",
+                           "size":66
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Quarter Round",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "children":[
+                        {
+                           "name":"First Serve - 67",
+                           "size":67
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 131",
+                           "size":131
+                        },
+                        {
+                           "name":"Break-Return - 102",
+                           "size":102
+                        },
+                        {
+                           "name":"Total Score - 105",
+                           "size":105
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Gilles Simon",
+                     "children":[
+                        {
+                           "name":"First Serve - 55",
+                           "size":55
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 54.5",
+                           "size":54.5
+                        },
+                        {
+                           "name":"Break-Return - 75",
+                           "size":75
+                        },
+                        {
+                           "name":"Total Score - 83",
+                           "size":83
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Semi Final Round",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "children":[
+                        {
+                           "name":"First Serve - 74",
+                           "size":74
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 67",
+                           "size":67
+                        },
+                        {
+                           "name":"Break-Return - 54",
+                           "size":54
+                        },
+                        {
+                           "name":"Total Score - 193",
+                           "size":193
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Fernando Verdasco",
+                     "children":[
+                        {
+                           "name":"First Serve - 69",
+                           "size":69
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Break-Return - 81",
+                           "size":81
+                        },
+                        {
+                           "name":"Total Score - 192",
+                           "size":192
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Final Round",
+               "children":[
+                  {
+                     "name":"Rafael Nadal",
+                     "children":[
+                        {
+                           "name":"First Serve - 64",
+                           "size":64
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 57",
+                           "size":57
+                        },
+                        {
+                           "name":"Break-Return - 84",
+                           "size":84
+                        },
+                        {
+                           "name":"Total Score - 173",
+                           "size":173
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 52",
+                           "size":52
+                        },
+                        {
+                           "name":"Double - 6",
+                           "size":6
+                        },
+                        {
+                           "name":"Points won by Player - 59",
+                           "size":59
+                        },
+                        {
+                           "name":"Break-Return - 73",
+                           "size":73
+                        },
+                        {
+                           "name":"Total Score - 174",
+                           "size":174
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"2010",
+         "children":[
+            {
+               "name":"First Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 58",
+                           "size":58
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Break-Return - 95",
+                           "size":95
+                        },
+                        {
+                           "name":"Total Score - 135",
+                           "size":135
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Igor Andreev",
+                     "children":[
+                        {
+                           "name":"First Serve - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Double - 7",
+                           "size":7
+                        },
+                        {
+                           "name":"Points won by Player - 46.5",
+                           "size":46.5
+                        },
+                        {
+                           "name":"Break-Return - 79",
+                           "size":79
+                        },
+                        {
+                           "name":"Total Score - 103",
+                           "size":103
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Second Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 67",
+                           "size":67
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 72.5",
+                           "size":72.5
+                        },
+                        {
+                           "name":"Break-Return - 92",
+                           "size":92
+                        },
+                        {
+                           "name":"Total Score - 96",
+                           "size":96
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Victor Hanescu",
+                     "children":[
+                        {
+                           "name":"First Serve - 70",
+                           "size":70
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 51",
+                           "size":51
+                        },
+                        {
+                           "name":"Break-Return - 24",
+                           "size":24
+                        },
+                        {
+                           "name":"Total Score - 64",
+                           "size":64
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Third Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 66",
+                           "size":66
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 72",
+                           "size":72
+                        },
+                        {
+                           "name":"Break-Return - 92",
+                           "size":92
+                        },
+                        {
+                           "name":"Total Score - 96",
+                           "size":96
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Albert Montanes",
+                     "children":[
+                        {
+                           "name":"First Serve - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 62",
+                           "size":62
+                        },
+                        {
+                           "name":"Break-Return - 22",
+                           "size":22
+                        },
+                        {
+                           "name":"Total Score - 174",
+                           "size":74
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Fourth Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 71",
+                           "size":71
+                        },
+                        {
+                           "name":"Break-Return - 77",
+                           "size":77
+                        },
+                        {
+                           "name":"Total Score - 102",
+                           "size":102
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Lleyton Hewitt",
+                     "children":[
+                        {
+                           "name":"First Serve - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 53.5",
+                           "size":53.5
+                        },
+                        {
+                           "name":"Break-Return - 48",
+                           "size":48
+                        },
+                        {
+                           "name":"Total Score - 77",
+                           "size":77
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Quarter Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 58",
+                           "size":58
+                        },
+                        {
+                           "name":"Break-Return - 104",
+                           "size":104
+                        },
+                        {
+                           "name":"Total Score - 125",
+                           "size":125
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Nikolay Davydenko",
+                     "children":[
+                        {
+                           "name":"First Serve - 62",
+                           "size":62
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 49",
+                           "size":49
+                        },
+                        {
+                           "name":"Break-Return - 65",
+                           "size":65
+                        },
+                        {
+                           "name":"Total Score - 104",
+                           "size":104
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Semi Final Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 64",
+                           "size":64
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 76",
+                           "size":76
+                        },
+                        {
+                           "name":"Break-Return - 91",
+                           "size":91
+                        },
+                        {
+                           "name":"Total Score - 85",
+                           "size":85
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Jo-Wilfried Tsonga",
+                     "children":[
+                        {
+                           "name":"First Serve - 56",
+                           "size":56
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 64",
+                           "size":64
+                        },
+                        {
+                           "name":"Break-Return - 22",
+                           "size":22
+                        },
+                        {
+                           "name":"Total Score - 54",
+                           "size":54
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Final Round",
+               "children":[
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 66",
+                           "size":66
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 66.5",
+                           "size":66.5
+                        },
+                        {
+                           "name":"Break-Return - 70",
+                           "size":70
+                        },
+                        {
+                           "name":"Total Score - 116",
+                           "size":116
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Andy Murray",
+                     "children":[
+                        {
+                           "name":"First Serve - 57",
+                           "size":57
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Break-Return - 57",
+                           "size":57
+                        },
+                        {
+                           "name":"Total Score - 100",
+                           "size":100
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"2011",
+         "children":[
+            {
+               "name":"First Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 67",
+                           "size":67
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 71.5",
+                           "size":71.5
+                        },
+                        {
+                           "name":"Break-Return - 111",
+                           "size":111
+                        },
+                        {
+                           "name":"Total Score - 84",
+                           "size":84
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Marcel Granollers",
+                     "children":[
+                        {
+                           "name":"First Serve - 48",
+                           "size":48
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 46",
+                           "size":46
+                        },
+                        {
+                           "name":"Break-Return - 77",
+                           "size":77
+                        },
+                        {
+                           "name":"Total Score - 47",
+                           "size":47
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Second Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 65",
+                           "size":65
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 69.5",
+                           "size":69.5
+                        },
+                        {
+                           "name":"Break-Return - 74",
+                           "size":74
+                        },
+                        {
+                           "name":"Total Score - 146",
+                           "size":146
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Ivan Dodig",
+                     "children":[
+                        {
+                           "name":"First Serve - 58",
+                           "size":58
+                        },
+                        {
+                           "name":"Double - 6",
+                           "size":6
+                        },
+                        {
+                           "name":"Points won by Player - 57.5",
+                           "size":57.5
+                        },
+                        {
+                           "name":"Break-Return - 48",
+                           "size":48
+                        },
+                        {
+                           "name":"Total Score - 121",
+                           "size":121
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Third Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 77",
+                           "size":77
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 69.5",
+                           "size":69.5
+                        },
+                        {
+                           "name":"Break-Return - 104",
+                           "size":104
+                        },
+                        {
+                           "name":"Total Score - 35",
+                           "size":35
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Viktor Troicki",
+                     "children":[
+                        {
+                           "name":"First Serve - 61",
+                           "size":61
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 39",
+                           "size":39
+                        },
+                        {
+                           "name":"Break-Return - 136",
+                           "size":136
+                        },
+                        {
+                           "name":"Total Score - 25",
+                           "size":25
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Fourth Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 75",
+                           "size":75
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 66.5",
+                           "size":66.5
+                        },
+                        {
+                           "name":"Break-Return - 84",
+                           "size":84
+                        },
+                        {
+                           "name":"Total Score - 93",
+                           "size":93
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Nicolas Almagro",
+                     "children":[
+                        {
+                           "name":"First Serve - 59",
+                           "size":59
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 52.5",
+                           "size":52.5
+                        },
+                        {
+                           "name":"Break-Return - 24",
+                           "size":24
+                        },
+                        {
+                           "name":"Total Score - 60",
+                           "size":60
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Quarter Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 68",
+                           "size":68
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 61.5",
+                           "size":61.5
+                        },
+                        {
+                           "name":"Break-Return - 96",
+                           "size":96
+                        },
+                        {
+                           "name":"Total Score - 107",
+                           "size":107
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Tomas Berdych",
+                     "children":[
+                        {
+                           "name":"First Serve - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 53.5",
+                           "size":53.5
+                        },
+                        {
+                           "name":"Break-Return - 81",
+                           "size":81
+                        },
+                        {
+                           "name":"Total Score - 80",
+                           "size":80
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Semi Final Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 69",
+                           "size":69
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 57",
+                           "size":57
+                        },
+                        {
+                           "name":"Break-Return - 74",
+                           "size":74
+                        },
+                        {
+                           "name":"Total Score - 119",
+                           "size":119
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Roger Federer",
+                     "children":[
+                        {
+                           "name":"First Serve - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 59.5",
+                           "size":59.5
+                        },
+                        {
+                           "name":"Break-Return - 67",
+                           "size":67
+                        },
+                        {
+                           "name":"Total Score - 111",
+                           "size":111
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Final Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 67",
+                           "size":67
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 65",
+                           "size":65
+                        },
+                        {
+                           "name":"Break-Return - 90",
+                           "size":90
+                        },
+                        {
+                           "name":"Total Score - 106",
+                           "size":106
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Andy Murray",
+                     "children":[
+                        {
+                           "name":"First Serve - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 47.5",
+                           "size":47.5
+                        },
+                        {
+                           "name":"Break-Return - 108",
+                           "size":108
+                        },
+                        {
+                           "name":"Total Score - 78",
+                           "size":78
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"2012",
+         "children":[
+            {
+               "name":"First Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 73",
+                           "size":73
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Break-Return - 136",
+                           "size":136
+                        },
+                        {
+                           "name":"Total Score - 82",
+                           "size":82
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Paolo Lorenzi",
+                     "children":[
+                        {
+                           "name":"First Serve - 52",
+                           "size":52
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 31.5",
+                           "size":31.5
+                        },
+                        {
+                           "name":"Break-Return - 54",
+                           "size":54
+                        },
+                        {
+                           "name":"Total Score - 41",
+                           "size":41
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Second Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 55",
+                           "size":55
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 73.5",
+                           "size":73.5
+                        },
+                        {
+                           "name":"Break-Return - 106",
+                           "size":106
+                        },
+                        {
+                           "name":"Total Score - 86",
+                           "size":86
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Santiago Giraldo",
+                     "children":[
+                        {
+                           "name":"First Serve - 52",
+                           "size":52
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 57",
+                           "size":57
+                        },
+                        {
+                           "name":"Break-Return - 76",
+                           "size":76
+                        },
+                        {
+                           "name":"Total Score - 52",
+                           "size":52
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Third Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 62",
+                           "size":62
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 72",
+                           "size":72
+                        },
+                        {
+                           "name":"Break-Return - 123",
+                           "size":123
+                        },
+                        {
+                           "name":"Total Score - 81",
+                           "size":81
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Nicolas Mahut",
+                     "children":[
+                        {
+                           "name":"First Serve - 65",
+                           "size":65
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 33.5",
+                           "size":35.5
+                        },
+                        {
+                           "name":"Break-Return - 21",
+                           "size":21
+                        },
+                        {
+                           "name":"Total Score - 37",
+                           "size":37
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Fourth Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 62",
+                           "size":62
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 64.5",
+                           "size":64.5
+                        },
+                        {
+                           "name":"Break-Return - 114",
+                           "size":114
+                        },
+                        {
+                           "name":"Total Score - 126",
+                           "size":126
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Lleyton Hewitt",
+                     "children":[
+                        {
+                           "name":"First Serve - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Double - 6",
+                           "size":6
+                        },
+                        {
+                           "name":"Points won by Player - 52",
+                           "size":52
+                        },
+                        {
+                           "name":"Break-Return - 101",
+                           "size":101
+                        },
+                        {
+                           "name":"Total Score - 100",
+                           "size":100
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Quarter Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 69",
+                           "size":69
+                        },
+                        {
+                           "name":"Break-Return - 85",
+                           "size":85
+                        },
+                        {
+                           "name":"Total Score - 105",
+                           "size":105
+                        }
+                     ]
+                  },
+                  {
+                     "name":"David Ferrer",
+                     "children":[
+                        {
+                           "name":"First Serve - 65",
+                           "size":65
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 55.5",
+                           "size":55.5
+                        },
+                        {
+                           "name":"Break-Return - 81",
+                           "size":81
+                        },
+                        {
+                           "name":"Total Score - 161",
+                           "size":161
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Semi Final Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Double - 6",
+                           "size":6
+                        },
+                        {
+                           "name":"Points won by Player - 55.5",
+                           "size":55.5
+                        },
+                        {
+                           "name":"Break-Return - 91",
+                           "size":91
+                        },
+                        {
+                           "name":"Total Score - 184",
+                           "size":184
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Andy Murray",
+                     "children":[
+                        {
+                           "name":"First Serve - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Double - 10",
+                           "size":10
+                        },
+                        {
+                           "name":"Points won by Player - 47",
+                           "size":47
+                        },
+                        {
+                           "name":"Break-Return - 71",
+                           "size":71
+                        },
+                        {
+                           "name":"Total Score - 161",
+                           "size":161
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Final Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 59",
+                           "size":59
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 65.5",
+                           "size":65.5
+                        },
+                        {
+                           "name":"Break-Return - 76",
+                           "size":76
+                        },
+                        {
+                           "name":"Total Score - 193",
+                           "size":193
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Rafael Nadal",
+                     "children":[
+                        {
+                           "name":"First Serve - 67",
+                           "size":67
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 55.5",
+                           "size":55.5
+                        },
+                        {
+                           "name":"Break-Return - 101",
+                           "size":101
+                        },
+                        {
+                           "name":"Total Score - 176",
+                           "size":176
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"2013",
+         "children":[
+            {
+               "name":"First Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 64",
+                           "size":64
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 80.5",
+                           "size":80.5
+                        },
+                        {
+                           "name":"Break-Return - 94",
+                           "size":94
+                        },
+                        {
+                           "name":"Total Score - 95",
+                           "size":95
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Paul-Henri Mathieu",
+                     "children":[
+                        {
+                           "name":"First Serve - 67",
+                           "size":67
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 55.5",
+                           "size":55.5
+                        },
+                        {
+                           "name":"Break-Return - 19",
+                           "size":19
+                        },
+                        {
+                           "name":"Total Score - 68",
+                           "size":68
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Second Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 73",
+                           "size":73
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 86",
+                           "size":86
+                        },
+                        {
+                           "name":"Break-Return - 97",
+                           "size":97
+                        },
+                        {
+                           "name":"Total Score - 94",
+                           "size":94
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Ryan Harrison",
+                     "children":[
+                        {
+                           "name":"First Serve - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 46",
+                           "size":46
+                        },
+                        {
+                           "name":"Break-Return - 14",
+                           "size":14
+                        },
+                        {
+                           "name":"Total Score - 52",
+                           "size":52
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Third Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 66",
+                           "size":66
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 76",
+                           "size":76
+                        },
+                        {
+                           "name":"Break-Return - 66",
+                           "size":66
+                        },
+                        {
+                           "name":"Total Score - 109",
+                           "size":109
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Radek Stepanek",
+                     "children":[
+                        {
+                           "name":"First Serve - 69",
+                           "size":69
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 55.5",
+                           "size":55.5
+                        },
+                        {
+                           "name":"Break-Return - 21",
+                           "size":21
+                        },
+                        {
+                           "name":"Total Score - 83",
+                           "size":83
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Fourth Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 66",
+                           "size":66
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Break-Return - 75",
+                           "size":75
+                        },
+                        {
+                           "name":"Total Score - 209",
+                           "size":209
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Stanislas Wawrinka",
+                     "children":[
+                        {
+                           "name":"First Serve - 62",
+                           "size":62
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Break-Return - 73",
+                           "size":73
+                        },
+                        {
+                           "name":"Total Score - 200",
+                           "size":200
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Quarter Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 67",
+                           "size":67
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 70.5",
+                           "size":70.5
+                        },
+                        {
+                           "name":"Break-Return - 155",
+                           "size":155
+                        },
+                        {
+                           "name":"Total Score - 85",
+                           "size":85
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Tomas Berdych",
+                     "children":[
+                        {
+                           "name":"First Serve - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 54",
+                           "size":54
+                        },
+                        {
+                           "name":"Break-Return - 52",
+                           "size":52
+                        },
+                        {
+                           "name":"Total Score - 86",
+                           "size":86
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Semi Final Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 85",
+                           "size":85
+                        },
+                        {
+                           "name":"Break-Return - 155",
+                           "size":155
+                        },
+                        {
+                           "name":"Total Score - 85",
+                           "size":85
+                        }
+                     ]
+                  },
+                  {
+                     "name":"David Ferrer",
+                     "children":[
+                        {
+                           "name":"First Serve - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 38",
+                           "size":38
+                        },
+                        {
+                           "name":"Break-Return - 14",
+                           "size":14
+                        },
+                        {
+                           "name":"Total Score - 41",
+                           "size":41
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Final Round",
+               "children":[
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 70.5",
+                           "size":70.5
+                        },
+                        {
+                           "name":"Break-Return - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Total Score - 139",
+                           "size":139
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Andy Murray",
+                     "children":[
+                        {
+                           "name":"First Serve - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 63.5",
+                           "size":63.5
+                        },
+                        {
+                           "name":"Break-Return - 28",
+                           "size":28
+                        },
+                        {
+                           "name":"Total Score - 126",
+                           "size":126
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"2014",
+         "children":[
+            {
+               "name":"First Round",
+               "children":[
+                  {
+                     "name":"Stanislas Wawrinka",
+                     "children":[
+                        {
+                           "name":"First Serve - 63",
+                           "size":63
+                        },
+                        {
+                           "name":"Double - 1",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 68.5",
+                           "size":68.5
+                        },
+                        {
+                           "name":"Break-Return - 94",
+                           "size":94
+                        },
+                        {
+                           "name":"Total Score - 54",
+                           "size":54
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Andrey Golubev",
+                     "children":[
+                        {
+                           "name":"First Serve - 64",
+                           "size":64
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 50",
+                           "size":50
+                        },
+                        {
+                           "name":"Break-Return - 76",
+                           "size":76
+                        },
+                        {
+                           "name":"Total Score - 37",
+                           "size":37
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Second Round",
+               "children":[
+                  {
+                     "name":"Stanislas Wawrinka",
+                     "children":[
+                        {
+                           "name":"First Serve - 56",
+                           "size":56
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 69.5",
+                           "size":69.5
+                        },
+                        {
+                           "name":"Break-Return - 75",
+                           "size":75
+                        },
+                        {
+                           "name":"Total Score - 142",
+                           "size":142
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Alejandro Falla",
+                     "children":[
+                        {
+                           "name":"First Serve - 60",
+                           "size":60
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 57.5",
+                           "size":57.5
+                        },
+                        {
+                           "name":"Break-Return - 58",
+                           "size":58
+                        },
+                        {
+                           "name":"Total Score - 117",
+                           "size":117
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Third Round",
+               "children":[
+                  {
+                     "name":"Stanislas Wawrinka - 100",
+                     "size":100
+                  },
+                  {
+                     "name":"Vasek Pospisil - 0",
+                     "size":0
+                  }
+               ]
+            },
+            {
+               "name":"Fourth Round",
+               "children":[
+                  {
+                     "name":"Stanislas Wawrinka",
+                     "children":[
+                        {
+                           "name":"First Serve - 56",
+                           "size":56
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 70.5",
+                           "size":70.5
+                        },
+                        {
+                           "name":"Break-Return - 82",
+                           "size":82
+                        },
+                        {
+                           "name":"Total Score - 118",
+                           "size":118
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Tommy Robredo",
+                     "children":[
+                        {
+                           "name":"First Serve - 71",
+                           "size":71
+                        },
+                        {
+                           "name":"Double - 0",
+                           "size":0
+                        },
+                        {
+                           "name":"Points won by Player - 57.5",
+                           "size":57.5
+                        },
+                        {
+                           "name":"Break-Return - 52",
+                           "size":52
+                        },
+                        {
+                           "name":"Total Score - 96",
+                           "size":96
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Quarter Round",
+               "children":[
+                  {
+                     "name":"Stanislas Wawrinka",
+                     "children":[
+                        {
+                           "name":"First Serve - 58",
+                           "size":58
+                        },
+                        {
+                           "name":"Double - 5",
+                           "size":5
+                        },
+                        {
+                           "name":"Points won by Player - 61",
+                           "size":61
+                        },
+                        {
+                           "name":"Break-Return - 82",
+                           "size":82
+                        },
+                        {
+                           "name":"Total Score - 153",
+                           "size":153
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Novak Djokovic",
+                     "children":[
+                        {
+                           "name":"First Serve - 73",
+                           "size":73
+                        },
+                        {
+                           "name":"Double -1 ",
+                           "size":1
+                        },
+                        {
+                           "name":"Points won by Player - 65",
+                           "size":65
+                        },
+                        {
+                           "name":"Break-Return - 94",
+                           "size":94
+                        },
+                        {
+                           "name":"Total Score - 161",
+                           "size":161
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Semi Final Round",
+               "children":[
+                  {
+                     "name":"Stanislas Wawrinka",
+                     "children":[
+                        {
+                           "name":"First Serve - 61",
+                           "size":61
+                        },
+                        {
+                           "name":"Double - 4",
+                           "size":4
+                        },
+                        {
+                           "name":"Points won by Player - 69",
+                           "size":69
+                        },
+                        {
+                           "name":"Break-Return - 53",
+                           "size":53
+                        },
+                        {
+                           "name":"Total Score - 143",
+                           "size":143
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Tomas Berdych",
+                     "children":[
+                        {
+                           "name":"First Serve - 62",
+                           "size":62
+                        },
+                        {
+                           "name":"Double - 7 ",
+                           "size":7
+                        },
+                        {
+                           "name":"Points won by Player - 69.5",
+                           "size":69.5
+                        },
+                        {
+                           "name":"Break-Return - 28",
+                           "size":28
+                        },
+                        {
+                           "name":"Total Score - 142",
+                           "size":142
+                        }
+                     ]
+                  }
+               ]
+            },
+            {
+               "name":"Final Round",
+               "children":[
+                  {
+                     "name":"Stanislas Wawrinka",
+                     "children":[
+                        {
+                           "name":"First Serve - 55",
+                           "size":55
+                        },
+                        {
+                           "name":"Double - 2",
+                           "size":2
+                        },
+                        {
+                           "name":"Points won by Player - 69",
+                           "size":69
+                        },
+                        {
+                           "name":"Break-Return - 77",
+                           "size":77
+                        },
+                        {
+                           "name":"Total Score - 116",
+                           "size":116
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Rafael Nadal",
+                     "children":[
+                        {
+                           "name":"First Serve - 78",
+                           "size":78
+                        },
+                        {
+                           "name":"Double - 3",
+                           "size":3
+                        },
+                        {
+                           "name":"Points won by Player - 51",
+                           "size":51
+                        },
+                        {
+                           "name":"Break-Return - 62",
+                           "size":62
+                        },
+                        {
+                           "name":"Total Score - 88",
+                           "size":88
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
